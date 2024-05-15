@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "Add Product - Lumière Luxe & Co."
+}
+
 export default function AddProductPage() {
   return (
     <div>
