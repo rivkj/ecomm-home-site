@@ -1,4 +1,5 @@
 import Navbar from "./Navbar/Navbar";
+import Footer from "./Footer";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
@@ -22,6 +23,7 @@ export default function RootLayout({
         <main className="p-4 max-w-7xl m-auto min-w-[300px]">
           {children}
         </main>
+        <Footer />
       </body>
     </html>
   );
