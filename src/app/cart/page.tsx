@@ -23,5 +23,5 @@ export default async function CartPage() {
         <button className="btn btn-primary sm:w-[200px]">Checkout</button>
       </div>
     </div>
-  )
+  );
 }
