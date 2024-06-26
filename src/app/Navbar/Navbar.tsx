@@ -27,7 +27,7 @@ export default async function Navbar() {
       <div className="navbar max-w-8xl m-auto flex-col sm:flex-row gap-2">
         <div className="flex-1">
           <Link href="/" className="btn btn-ghost text-xl normal-case">
-            <Image src={logo} height={80} width={80} alt="Lumière Luxe & Co. logo" />
+            <Image src={logo} height={40} width={40} alt="Lumière Luxe & Co. logo" />
             Lumière Luxe & Co.
           </Link>
         </div>
