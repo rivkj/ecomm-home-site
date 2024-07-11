@@ -21,18 +21,41 @@ Inspired by the French word for "light" as a reference to physical light or meta
 
 ## Site
 
+#### Logo was made to reflect minimalism and elegance by incorporating sun and greenery 
+The "Lumière Luxe & Co." logo elegantly captures the brand's essence of luxury and sustainability.
+
+1. Shape and Layout:
+
+The logo is framed within an oval, symbolizing timeless elegance and continuity.
+
+2. Iconography:
+
+A radiant sun sits at the top, representing light, warmth, and the brand’s name, "Lumière."
+Bordering the bottom of the oval are delicate eucalyptus leaves, symbolizing natural beauty, purity, and the brand's commitment to eco-friendly practices.
+
+3. Text:
+
+The name "Lumière Luxe & Co." is prominently displayed within the oval, with "Lumière Luxe" in an elegant serif font to convey luxury and sophistication, and "& Co." in a modern sans-serif font to add a contemporary touch.
+
+4. Color Palette:
+
+Gold: Used for the sun, emphasizing luxury and high quality.
+Soft Green: For the eucalyptus leaves, highlighting sustainability and a connection to nature.
+White or Soft Beige: Background or accent colors to maintain a clean and pure look.
 
 ![Logo](image.png)
-![Full site image](src/assets/lumiere-img-3.png)
+
 #### Site includes hero image that changes whenever new product is added to highlight new items.
-![Image 2 of site](src/assets/lumiere-img-2.png)
+![Full site image](src/assets/lumiere-img-3.png)
 #### New items are listed with new tag that last 7 days  from day of upload
-![Checkout page of site](src/assets/checkout-img.png)
+![Image 2 of site](src/assets/lumiere-img-2.png)
 #### Shopping cart has ability to be an anonymous shopper or make a profile to keep items in cart for future purchase.
-![Mood Board inspiration](src/assets/mood-board.png)
+![Checkout page of site](src/assets/checkout-img.png)
 #### Mood Board of site was made with the thought of keeping site natural and earthy while also keeping products at the center of attention through images that highlight them.
-![Jewelry site samples](src/assets/site-samples.png)
+![Mood Board inspiration](src/assets/mood-board.png)
 #### Image is a reflection of what email subscribers could potentially receive to showcase new items - reflects the mood board aesthetic.
+![Jewelry site samples](src/assets/site-samples.png)
+
 
 
 ## Features
