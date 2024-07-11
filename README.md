@@ -25,7 +25,6 @@ Inspired by the French word for "light" as a reference to physical light or meta
 ![Logo](image.png)
 ![Full site image](src/assets/lumiere-img-3.png)
 #### Site includes hero image that changes whenever new product is added to highlight new items.
-![Image 1 of site](src/assets/lumiere-img-1.png)
 ![Image 2 of site](src/assets/lumiere-img-2.png)
 #### New items are listed with new tag that last 7 days  from day of upload
 ![Checkout page of site](src/assets/checkout-img.png)
