@@ -25,8 +25,8 @@ Inspired by the French word for "light" as a reference to physical light or meta
 ![Logo](image.png)
 ![Image 1 of site](src/assets/lumiere-img-1.png)
 ![Image 2 of site](src/assets/lumiere-img-2.png)
-![Mood Board inspiration](src/assets/Mood Board Brainstorm Whiteboard.png)
-![Jewelry site samples](src/assets/list (1).png)
+![Mood Board inspiration](src/assets/mood-board.png)
+![Jewelry site samples](src/assets/site-samples.png)
 
 
 ## Features
