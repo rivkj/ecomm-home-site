@@ -23,7 +23,7 @@ Inspired by the French word for "light" as a reference to physical light or meta
 
 
 ![Logo](image.png)
-![Full site image](src/assets/lumiere-img-2.png)
+![Full site image](src/assets/lumiere-img-3.png)
 ![Image 1 of site](src/assets/lumiere-img-1.png)
 ![Image 2 of site](src/assets/lumiere-img-2.png)
 ![Checkout page of site](src/assets/checkout-img.png)
