@@ -1,6 +1,38 @@
+# Lumière Luxe & Co. Ecommerce Site
+
+## Welcome to LL&Co, your go-to online store for sustainable and health-conscious products.
+
+### Designed with Canva and Figma - crafted with NextJS, TypeScript and DaisyUI.
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Site](#site)
+
+
+## Overview
+
+Lumière Luxe & Co. /loo·mee·air/ is an ecommerce platform dedicated to offering products that promote both personal health and environmental sustainability. Our mission is to provide consumers with a convenient way to shop for goods that are good for their bodies and the planet.
+
+Inspired by the French word for "light" as a reference to physical light or metaphorical light such as enlightenment or illumination - LL&Co is the embodiment of trying to bring to light items which often get overlooked in a world of fast fashion and consumerism. Items listed have been made sustainably and are a product of being sourced in a humanitarian manner. While many sites offer high quality products that are sourced from unknown places at a higher cost for revenue, LL&Co provides high quality items at a reasonable price as an equal pay opportunity to its manufacturers as well and it's makers. 
+
+## Features
+
+
+- **Product Categories:** Browse through a wide range of categories including jewelry, eco-friendly skincare, sustainable home goods, and more.
+- **Search and Filter:** Easily find products using our search functionality and filter options based on price, category, or sustainability criteria.
+- **Secure Checkout:** Enjoy a seamless and secure checkout process with multiple payment options. -- To be added.
+- **User Accounts:** Create a user account to save your favorite items, track orders, and manage subscriptions.
+- **Community Engagement:** Stay informed about sustainability trends and health tips through our blog and social media channels.
+
+# Installation
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
@@ -20,7 +52,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -29,8 +61,21 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Browse Products:** Navigate through the categories or use the search bar to find products of interest.
+2. **Add to Cart:** Click on a product to view details and add it to your cart.
+3. **Checkout:** Review your cart, enter shipping and payment details, and complete your purchase.
+4. **Manage Account:** Create an account to manage your orders, subscriptions, and preferences.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contributing
+
+We welcome contributions to improve Lumière Luxe & Co.! Here's how you can contribute:
+
+- Fork the repository
+- Make your changes
+- Submit a pull request
+
+## Contact
+
+Have questions or feedback? Reach out to me at [rivaskj07@gmail.com]
