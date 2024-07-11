@@ -5,12 +5,12 @@
 ### Designed with Canva and Figma - crafted with NextJS, TypeScript and DaisyUI.
 
 - [Overview](#overview)
+- [Site](#site)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [Site](#site)
 
 
 ## Overview
@@ -18,6 +18,16 @@
 Lumière Luxe & Co. /loo·mee·air/ is an ecommerce platform dedicated to offering products that promote both personal health and environmental sustainability. Our mission is to provide consumers with a convenient way to shop for goods that are good for their bodies and the planet.
 
 Inspired by the French word for "light" as a reference to physical light or metaphorical light such as enlightenment or illumination - LL&Co is the embodiment of trying to bring to light items which often get overlooked in a world of fast fashion and consumerism. Items listed have been made sustainably and are a product of being sourced in a humanitarian manner. While many sites offer high quality products that are sourced from unknown places at a higher cost for revenue, LL&Co provides high quality items at a reasonable price as an equal pay opportunity to its manufacturers as well and it's makers. 
+
+## Site
+
+
+![Logo](image.png)
+![Image 1 of site](src/assets/lumiere-img-1.png)
+![Image 2 of site](src/assets/lumiere-img-2.png)
+![Mood Board inspiration](image.png)
+![Jewelry site samples](image-1.png)
+
 
 ## Features
 
