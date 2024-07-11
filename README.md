@@ -24,11 +24,16 @@ Inspired by the French word for "light" as a reference to physical light or meta
 
 ![Logo](image.png)
 ![Full site image](src/assets/lumiere-img-3.png)
+#### Site includes hero image that changes whenever new product is added to highlight new items.
 ![Image 1 of site](src/assets/lumiere-img-1.png)
 ![Image 2 of site](src/assets/lumiere-img-2.png)
+#### New items are listed with new tag that last 7 days  from day of upload
 ![Checkout page of site](src/assets/checkout-img.png)
+#### Shopping cart has ability to be an anonymous shopper or make a profile to keep items in cart for future purchase.
 ![Mood Board inspiration](src/assets/mood-board.png)
+#### Mood Board of site was made with the thought of keeping site natural and earthy while also keeping products at the center of attention through images that highlight them.
 ![Jewelry site samples](src/assets/site-samples.png)
+#### Image is a reflection of what email subscribers could potentially receive to showcase new items - reflects the mood board aesthetic.
 
 
 ## Features
