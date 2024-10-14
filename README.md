@@ -44,7 +44,7 @@ Soft Green: For the eucalyptus leaves, highlighting sustainability and a connect
 White or Soft Beige: Background or accent colors to maintain a clean and pure look.
 
 ![Logo](image.png)
-![L](L.png)
+![Lumiere image](L.png)
 
 #### Site includes hero image that changes whenever new product is added to highlight new items.
 ![Full site image](src/assets/lumiere-img-3.png)
